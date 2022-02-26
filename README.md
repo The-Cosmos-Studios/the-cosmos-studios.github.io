@@ -1,1 +1,1 @@
-# https://the-cosmos-studios.github.io
+# https://thecosmosstudios.github.io
